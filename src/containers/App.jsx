@@ -10,7 +10,7 @@ import '../assets/style/Header.scss';
 
 const App= () =>{
     return (
-        <div className="App">
+        <div class="App">
           <Header/>
           <Search />
           <Carrusel />

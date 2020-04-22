@@ -1,8 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-//import App from './App';
+import App from './App';
 import * as serviceWorker from './serviceWorker';
+
+//Browser Route
+import {BrowserRouter } from 'react-router-dom';
+
+ReactDOM.render(<BrowserRouter><App /></BrowserRouter>, document.getElementById('root'));
+
 //import buscador from './components/buscador';
 //import Holamundo from './components/Holamundo';
 //import Stateful from '../src/components/Stateful';
@@ -12,7 +18,7 @@ import * as serviceWorker from './serviceWorker';
 //import Header from '../src/components/Header';
 //import Search from '../src/components/Search';
 //import Carrusel from '../src/components/Carrusel';
-import Layout from '../src/container/App';
+//import Layout from '../src/container/App';
 //import Layout from '../src/container/examen2';
 //import Login from './container/Login';
 
@@ -23,7 +29,7 @@ import Layout from '../src/container/App';
 //ReactDOM.render(<Stateful/>, document.getElementById('root'));
 //ReactDOM.render(<Stateless/>, document.getElementById('root'));
 //ReactDOM.render(<Button text="Guardar"/>, document.getElementById('root'));
-ReactDOM.render(<Layout />, document.getElementById('root'));
+//ReactDOM.render(<Layout />, document.getElementById('root'));
 //ReactDOM.render(<Carrusel />, document.getElementById('root'));
 //ReactDOM.render(<App />, document.getElementById('root'));
 //ReactDOM.render(<Header />, document.getElementById('root'));

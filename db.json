@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "nombre": "vel",
+        "descripcion": "Maiores dignissimos eaque quidem quam sequi et voluptatem dolores. Saepe sed magnam impedit omnis perferendis.",
+        "cantidad": 1426,
+        "costo": 250,
+        "remember_token": "ox0nBeoYlg",
+        "created_at": "2020-03-14 00:12:29",
+        "updated_at": "2020-03-14 00:12:29",
+        "deleted_at": null
+    },
+    {
+        "id": 2,
+        "nombre": "numquam",
+        "descripcion": "Quis voluptatum natus qui illum ducimus aliquid et.",
+        "cantidad": 2054,
+        "costo": 1090,
+        "remember_token": "rJBgRYbGxV",
+        "created_at": "2020-03-14 00:12:29",
+        "updated_at": "2020-03-14 00:12:29",
+        "deleted_at": null
+    },
+    {
+        "id": 3,
+        "nombre": "repudiandae",
+        "descripcion": "Ipsa repellendus rerum sed repellendus natus accusantium.",
+        "cantidad": 903,
+        "costo": 201,
+        "remember_token": "H6U3FuN7lN",
+        "created_at": "2020-03-14 00:12:29",
+        "updated_at": "2020-03-14 00:12:29",
+        "deleted_at": null
+    },
+    {
+        "id": 4,
+        "nombre": "sed",
+        "descripcion": "Minus laboriosam possimus dolorem ut atque excepturi quod.",
+        "cantidad": 2623,
+        "costo": 1521,
+        "remember_token": "uBDfhhsRCI",
+        "created_at": "2020-03-14 00:12:29",
+        "updated_at": "2020-03-14 00:12:29",
+        "deleted_at": null
+    },
+    {
+        "id": 5,
+        "nombre": "corrupti",
+        "descripcion": "Similique modi voluptatem corporis saepe non voluptas.",
+        "cantidad": 2676,
+        "costo": 2731,
+        "remember_token": "OK9MPGmM53",
+        "created_at": "2020-03-14 00:12:29",
+        "updated_at": "2020-03-14 00:12:29",
+        "deleted_at": null
+    },
+    {
+        "id": 6,
+        "nombre": "culpa",
+        "descripcion": "Mollitia sit aut sit ea.",
+        "cantidad": 836,
+        "costo": 335,
+        "remember_token": "EYustGsn4O",
+        "created_at": "2020-03-14 00:12:29",
+        "updated_at": "2020-03-14 00:12:29",
+        "deleted_at": null
+    },
+    {
+        "id": 7,
+        "nombre": "eaque",
+        "descripcion": "Quo libero incidunt impedit excepturi vero ea. Cumque numquam ducimus aperiam eius inventore quaerat nisi.",
+        "cantidad": 769,
+        "costo": 2048,
+        "remember_token": "mxc85MbAOx",
+        "created_at": "2020-03-14 00:12:29",
+        "updated_at": "2020-03-14 00:12:29",
+        "deleted_at": null
+    },
+    {
+        "id": 8,
+        "nombre": "dolores",
+        "descripcion": "Hic minima qui provident est tenetur. Ut officia excepturi qui dolores fuga.",
+        "cantidad": 1125,
+        "costo": 1523,
+        "remember_token": "hDgKAu4Thj",
+        "created_at": "2020-03-14 00:12:29",
+        "updated_at": "2020-03-14 00:12:29",
+        "deleted_at": null
+    },
+    {
+        "id": 9,
+        "nombre": "odio",
+        "descripcion": "Libero tenetur error enim nesciunt minus.",
+        "cantidad": 2348,
+        "costo": 1349,
+        "remember_token": "GATrynADXo",
+        "created_at": "2020-03-14 00:12:29",
+        "updated_at": "2020-03-14 00:12:29",
+        "deleted_at": null
+    },
+    {
+        "id": 10,
+        "nombre": "ea",
+        "descripcion": "Corporis pariatur totam harum iste qui modi excepturi libero.",
+        "cantidad": 2608,
+        "costo": 1573,
+        "remember_token": "6uPaR6bsp0",
+        "created_at": "2020-03-14 00:12:29",
+        "updated_at": "2020-03-14 00:12:29",
+        "deleted_at": null
+    },
+    {
+        "id": 11,
+        "nombre": "julion",
+        "descripcion": "muy locoi",
+        "cantidad": 3,
+        "costo": 400,
+        "remember_token": null,
+        "created_at": "2020-03-15 22:44:59",
+        "updated_at": "2020-03-15 22:44:59",
+        "deleted_at": null
+    }
+]
